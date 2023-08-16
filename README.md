@@ -7,7 +7,9 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/vaibhavkusalkar/bank_wallet/blob/d14b09b7b833841337526723a7d513629336ee8d/Mockups/wallet_app%20Homepage.png=430x932)
+![App Screens 1](https://github.com/vaibhavkusalkar/social_media/blob/016fba530e8a420ca9181de795c3a1a9b4d3b4e4/Mockups/Screen1.png)
+
+![App Screens 2](https://github.com/vaibhavkusalkar/social_media/blob/016fba530e8a420ca9181de795c3a1a9b4d3b4e4/Mockups/Screen2.png)
 
 ## Functionality
 * Login / Register
