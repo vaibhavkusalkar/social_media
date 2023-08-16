@@ -44,7 +44,7 @@ class CommentCard extends StatelessWidget {
                 Text(
                   "$name ($user) . $time",
                   style: TextStyle(
-                    fontSize: 11,
+                    fontSize: 10.9,
                     color: Colors.grey.shade900,
                     letterSpacing: 0.05
                   ),

@@ -184,8 +184,8 @@ class _PostsCardState extends State<PostsCard> {
                             ),
                             //const SizedBox(height: 5),
 
-                            //like count
                             /*
+                            //like count
                         Text(
                           widget.likes.length.toString(),
                           style: TextStyle(
@@ -194,7 +194,7 @@ class _PostsCardState extends State<PostsCard> {
                             //fontWeight: FontWeight.w400
                           ),
                         )
-                         */
+                             */
                           ],
                         )
                       ],

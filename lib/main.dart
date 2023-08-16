@@ -7,7 +7,7 @@ import 'package:social_media_material/firebase_options.dart';
 import 'package:social_media_material/pages/comments_page.dart';
 
 void main() async {
-  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
     statusBarColor: Colors.white, // status bar color
     statusBarIconBrightness: Brightness.dark,  //status bar text color
   ));
